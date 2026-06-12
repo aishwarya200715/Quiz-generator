@@ -1,1 +1,1 @@
-# Quiz-generator
+The AI-Based Quiz Generator is a smart educational tool that automatically creates quizzes from a given topic, text, or document. It helps students, teachers, and trainers generate multiple-choice questions (MCQs), true/false questions, and short-answer questions within seconds. The system uses natural language processing (NLP) and artificial intelligence to analyze the input content and produce relevant, accurate, and difficulty-based questions.
